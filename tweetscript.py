@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  9 12:21:13 2019
 
-@author: Karan Raj
+@author: premp
 """
 from selenium import webdriver
 from bs4 import BeautifulSoup
